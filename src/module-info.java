@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author SOURAV
- *
- */
-module CoreJavaPractice {
-}
